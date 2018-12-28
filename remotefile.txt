@@ -2,6 +2,7 @@
  basic file
 
 change2
+change 1
 
 Change1 in RemoteFile
 v
